@@ -12,10 +12,12 @@
   "devDependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
-    "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
     "node-emoji": "^1.11.0",
     "prettier": "^2.3.2",
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
     "telegraf": "^4.4.1"
   }
 }
